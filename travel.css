@@ -1,0 +1,16 @@
+.container-fluid a:hover{
+    background-color: rgb(244, 216, 40);
+}
+
+
+#home {
+  
+  padding-top: 0;
+}
+#company{
+    height: 800px;
+}
+.logo{
+  height:40px;
+  width:auto;
+}
